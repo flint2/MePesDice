@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MePES Dice</string>
+    <string name="action_roll">Tirar el dado</string>
+</resources>
